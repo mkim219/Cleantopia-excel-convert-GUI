@@ -70,14 +70,18 @@ namespace Excel_Conversion_UI
                     {
                         if (Int32.Parse(row.Cell(3).Value.ToString()) == uni_degree)
                         {
-                            if (row.Cell(1).Value.ToString() != "")
+                            if (row.Cell(1).Value.ToString() != "") //check empty row
                             {
+                                //removing day in date format 
+                                string date = row.Cell(8).Value.ToString();
+                                string removeDay = date.Substring(0, date.IndexOf(" "));
+                              
                                 extractedData.Add(new ExtractedData(
                                     row.Cell(5).Value.ToString(),
                                     row.Cell(6).Value.ToString(),
-                                    row.Cell(8).Value.ToString(),
+                                    removeDay,
                                     row.Cell(9).Value.ToString()
-                                    ));
+                                ));
                             }
                         }
                     }
@@ -86,7 +90,6 @@ namespace Excel_Conversion_UI
             }
             catch (Exception ex)
             {
-                
             }
 
             foreach (var row in extractedData)

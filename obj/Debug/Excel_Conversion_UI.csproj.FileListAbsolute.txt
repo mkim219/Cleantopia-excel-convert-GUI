@@ -22,3 +22,28 @@ C:\Users\Minsu Kim\Desktop\CleanTopia UI\Excel_Conversion_UI\bin\Debug\ClosedXML
 C:\Users\Minsu Kim\Desktop\CleanTopia UI\Excel_Conversion_UI\bin\Debug\DocumentFormat.OpenXml.xml
 C:\Users\Minsu Kim\Desktop\CleanTopia UI\Excel_Conversion_UI\bin\Debug\ExcelNumberFormat.xml
 C:\Users\Minsu Kim\Desktop\CleanTopia UI\Excel_Conversion_UI\bin\Debug\System.Data.OleDb.xml
+C:\Users\tom13\Source\Repos\Cleantopia-excel-convert-GUI\bin\Debug\Excel_Conversion_UI.exe.config
+C:\Users\tom13\Source\Repos\Cleantopia-excel-convert-GUI\bin\Debug\Excel_Conversion_UI.exe
+C:\Users\tom13\Source\Repos\Cleantopia-excel-convert-GUI\bin\Debug\Excel_Conversion_UI.pdb
+C:\Users\tom13\Source\Repos\Cleantopia-excel-convert-GUI\bin\Debug\ClosedXML.dll
+C:\Users\tom13\Source\Repos\Cleantopia-excel-convert-GUI\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\tom13\Source\Repos\Cleantopia-excel-convert-GUI\bin\Debug\EPPlus.dll
+C:\Users\tom13\Source\Repos\Cleantopia-excel-convert-GUI\bin\Debug\ExcelNumberFormat.dll
+C:\Users\tom13\Source\Repos\Cleantopia-excel-convert-GUI\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\tom13\Source\Repos\Cleantopia-excel-convert-GUI\bin\Debug\System.Data.OleDb.dll
+C:\Users\tom13\Source\Repos\Cleantopia-excel-convert-GUI\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\tom13\Source\Repos\Cleantopia-excel-convert-GUI\bin\Debug\System.IO.Packaging.dll
+C:\Users\tom13\Source\Repos\Cleantopia-excel-convert-GUI\bin\Debug\ClosedXML.pdb
+C:\Users\tom13\Source\Repos\Cleantopia-excel-convert-GUI\bin\Debug\ClosedXML.xml
+C:\Users\tom13\Source\Repos\Cleantopia-excel-convert-GUI\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\tom13\Source\Repos\Cleantopia-excel-convert-GUI\bin\Debug\EPPlus.xml
+C:\Users\tom13\Source\Repos\Cleantopia-excel-convert-GUI\bin\Debug\ExcelNumberFormat.xml
+C:\Users\tom13\Source\Repos\Cleantopia-excel-convert-GUI\bin\Debug\System.Data.OleDb.xml
+C:\Users\tom13\Source\Repos\Cleantopia-excel-convert-GUI\obj\Debug\Excel_Conversion_UI.csproj.AssemblyReference.cache
+C:\Users\tom13\Source\Repos\Cleantopia-excel-convert-GUI\obj\Debug\Excel_Conversion_UI.Form1.resources
+C:\Users\tom13\Source\Repos\Cleantopia-excel-convert-GUI\obj\Debug\Excel_Conversion_UI.Properties.Resources.resources
+C:\Users\tom13\Source\Repos\Cleantopia-excel-convert-GUI\obj\Debug\Excel_Conversion_UI.csproj.GenerateResource.cache
+C:\Users\tom13\Source\Repos\Cleantopia-excel-convert-GUI\obj\Debug\Excel_Conversion_UI.csproj.CoreCompileInputs.cache
+C:\Users\tom13\Source\Repos\Cleantopia-excel-convert-GUI\obj\Debug\Excel_Co.D6143E47.Up2Date
+C:\Users\tom13\Source\Repos\Cleantopia-excel-convert-GUI\obj\Debug\Excel_Conversion_UI.exe
+C:\Users\tom13\Source\Repos\Cleantopia-excel-convert-GUI\obj\Debug\Excel_Conversion_UI.pdb
